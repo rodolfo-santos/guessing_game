@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1514498602 source:c:\users\rodol\desktop\cursos alura\c\hello_world\hello world\main.c
+	<stdio.h>
+	<locale.h>
+	<time.h>
+
