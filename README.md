@@ -1,2 +1,2 @@
-# jogo_de_adivinhacao
-Jogo de adivinhação em C
+# guessing game
+A little game write in C language.
